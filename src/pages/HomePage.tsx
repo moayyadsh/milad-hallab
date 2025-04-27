@@ -7,7 +7,7 @@ const HomePage = () => {
       <div className="home-page__data">
         <img
           className="home-page__data__logo"
-          src="/wam logo.svg"
+          src="/logo.svg"
           alt="WAM Logo"
         />
         <div className="home-page__data__social">
