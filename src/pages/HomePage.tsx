@@ -21,7 +21,7 @@ const HomePage = () => {
             Facebook
           </a>
           <a
-            href="https://www.instagram.com/wamboutek?igsh=ZHBjNm5sNjUxY2lt"
+            href="https://www.instagram.com/wam_haute_couture?igsh=ZHBjNm5sNjUxY2lt"
             target="_blank"
             rel="noopener noreferrer"
             className="home-page__data__social-btn"
