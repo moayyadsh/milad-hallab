@@ -18,7 +18,7 @@ const HomePage = () => {
             className="home-page__data__social-btn"
           >
             <FaFacebookF />
-            Facebook
+            Facebook 
           </a>
           <a
             href="https://www.instagram.com/wam_haute_couture?igsh=ZHBjNm5sNjUxY2lt"
