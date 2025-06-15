@@ -27,7 +27,7 @@ const HomePage = () => {
             className="home-page__data__social-btn"
           >
             <FaInstagram />
-            Instagram
+            Instagram 
           </a>
           <a
             href="https://www.tiktok.com/@wam.haute.couture?_t=ZN-8vrKBM6eXYs&_r=1"
